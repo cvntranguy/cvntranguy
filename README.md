@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://img.sanishtech.com/u/2b7631eb96bc0cff743e3f27665b39e0.png"  />
+  <img height="350" src="https://img.sanishtech.com/u/2b7631eb96bc0cff743e3f27665b39e0.png"  />
 </div>
 
 ###
